@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cyclesworld.herokuapp.com
+Token: 31549dbeb9dbb04732082bc5f781839b880295565958532cc9b74d5269922d2c
